@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/物理/量子力学.md",
+                "file": "Physics/力学.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "量子力学"
+              "title": "力学"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/物理/量子力学.md"
+                "file": "Physics/力学.md"
               },
               "icon": "lucide-list",
-              "title": "量子力学 的大纲"
+              "title": "力学 的大纲"
             }
           }
         ],
@@ -159,11 +159,13 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "8fe22e1d582d9e49",
   "lastOpenFiles": [
+    "Physics/量子力学.md",
     "笔记/物理/热学.md",
     "Output/量子力学.pdf",
     "笔记/物理/量子力学.md",

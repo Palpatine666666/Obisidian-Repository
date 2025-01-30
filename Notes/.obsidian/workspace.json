@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quenya/笔记.md",
+                "file": "Physics/热学.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "笔记"
+              "title": "热学"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quenya/笔记.md"
+                "file": "Physics/热学.md"
               },
               "icon": "lucide-list",
-              "title": "笔记 的大纲"
+              "title": "热学 的大纲"
             }
           }
         ],
@@ -165,11 +165,13 @@
   },
   "active": "6881ed365460d2dd",
   "lastOpenFiles": [
-    "Pasted image 20250124215443.png",
-    "Quenya/笔记.md",
     "Physics/力学.md",
-    "Quenya",
     "Physics/量子力学.md",
+    "Physics/热学.md",
+    "Physics/规范.md",
+    "Quenya/笔记.md",
+    "Pasted image 20250124215443.png",
+    "Quenya",
     "笔记/物理/热学.md",
     "Output/量子力学.pdf",
     "笔记/物理/量子力学.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/热学.md",
+                "file": "Physics/量子力学.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "热学"
+              "title": "量子力学"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/热学.md"
+                "file": "Physics/量子力学.md"
               },
               "icon": "lucide-list",
-              "title": "热学 的大纲"
+              "title": "量子力学 的大纲"
             }
           }
         ],
@@ -165,10 +165,12 @@
   },
   "active": "6881ed365460d2dd",
   "lastOpenFiles": [
-    "Physics/量子力学.md",
-    "Physics/热学.md",
+    "Physics/电磁学.md",
+    "Physics/光学.md",
     "Physics/规范.md",
     "Physics/力学.md",
+    "Physics/量子力学.md",
+    "Physics/热学.md",
     "Quenya/笔记.md",
     "Pasted image 20250124215443.png",
     "Quenya",

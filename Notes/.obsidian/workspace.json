@@ -15,7 +15,7 @@
               "state": {
                 "file": "Physics/热学.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "热学"
